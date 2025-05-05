@@ -1,1 +1,1 @@
-<h1>This is the Gamma Telescope Project</h1>
+<h1>Data Science Project</h1>
